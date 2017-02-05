@@ -1,3 +1,5 @@
 # kyleropractor.github.io
 
-My Personal Portfolio
+Personal Portfolio
+
+This page was created to showcase completed projects.  I used HTMl and CSS to make a static website.
