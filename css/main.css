@@ -110,11 +110,11 @@ COLORS
 **************/
 
 header {
-  background: slategray;
+  background: #99ff99;
 }
 
 body {
-  background: black;
+  background: #660066;
 }
 
 /*logo text*/
@@ -140,6 +140,6 @@ nav {
 }
 /*site body*/
 body {
-  background-color: black;
+  background-color: #660066;
   color: #999;
 }
